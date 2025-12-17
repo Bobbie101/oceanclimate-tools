@@ -1,6 +1,11 @@
 # oceanclimate_tools
 
+[![PyPI version](https://img.shields.io/pypi/v/oceanclimate-tools)](https://pypi.org/project/oceanclimate-tools/)
+[![Python versions](https://img.shields.io/pypi/pyversions/oceanclimate-tools)](https://pypi.org/project/oceanclimate-tools/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Beginner-friendly Python utilities for oceanography and climate data preprocessing.
+
 
 ## Why this exists
 Climate and ocean datasets often come from different sources and use different units
